@@ -5,5 +5,8 @@ BELL (acronym TBD) is a collection of scripts and functions I want to collect an
 As of now, each small snippets are distributed in its own directory, with contained documentation and 
 example data. We will see in the future if this is shareable or I just use it for bookeeping.
 
+As of _right_ now it is simply a way to share some stuff under version
+control, hei Ragnar!
+
 If any comments, please direct them to johbla@ous-hf.no
 
