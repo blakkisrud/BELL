@@ -10,3 +10,11 @@ control, hei Ragnar!
 
 If any comments, please direct them to johbla@ous-hf.no
 
+## General overlook
+
+The snippets are put into directories, where there are one main-file
+containing functions, and a test-file. With the exception of ROC where
+there is only a test file. And the "supp"-directory where there are only
+misc. stuff.
+
+TODO: Write overview, learn to spell
