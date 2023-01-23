@@ -10,6 +10,8 @@ control, hei Ragnar!
 
 If any comments, please direct them to johbla@ous-hf.no
 
+Sentence for the mac-test
+
 ## General overlook
 
 The snippets are put into directories, where there are one main-file
